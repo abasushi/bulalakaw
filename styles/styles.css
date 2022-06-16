@@ -31,7 +31,6 @@ div {
     overflow: hidden;
     animation: fadein 0.5s ease-out normal backwards;
     /* width: 100%; */
-    background-color: #fffffe;
 }
 
 .item01 {
